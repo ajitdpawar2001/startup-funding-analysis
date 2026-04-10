@@ -23,6 +23,15 @@ An interactive web application built using Streamlit to analyze funding trends i
 ## 📂 Dataset
 - Cleaned dataset of startup funding (2015–2020)
 
+
+---
+
+## 📸 Screenshots
+
+![Home](assets/Home Page.png)
+![Startup](assets/Startup Page.png)
+![Investors](assets/Investors Page.png)
+
 ---
 
 ## ▶️ Run Locally

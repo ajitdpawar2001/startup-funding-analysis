@@ -28,9 +28,9 @@ An interactive web application built using Streamlit to analyze funding trends i
 
 ## 📸 Screenshots
 
-![Home](assets/Home Page.png)
-![Startup](assets/Startup Page.png)
-![Investors](assets/Investors Page.png)
+- [Home](assets/Home Page.png)
+- [Startup](assets/Startup Page.png)
+- [Investors](assets/Investors Page.png)
 
 ---
 

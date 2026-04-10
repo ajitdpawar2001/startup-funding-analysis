@@ -1,0 +1,14 @@
+ Streamlit Startup Analysis App
+This is a dynamic web application built using the Streamlit framework for analyzing investment trends from cleaned_data.csv.
+
+Goal: Provide three interactive analysis views: Overall Market, Specific Startups, and Specific Investors.
+
+Key Components:
+
+Overall Analysis: Shows total funding, max funding, average funding, and Month-on-Month trends.
+
+Startup Details: Displays a startup's total funding, location, and Year-on-Year funding history. 
+
+Investor Details: Shows an investor's biggest deals, sector and city distribution, and Year-on-Year activity.
+
+Status: The data handling and filtering logic in the investor and startup sections were stabilized to safely process missing values (NaN) across different Pandas versions.
